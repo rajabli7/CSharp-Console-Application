@@ -1,0 +1,20 @@
+C:\Users\comfy\Desktop\PCPSolver\PCPSolver\bin\Debug\PCPSolver.exe.config
+C:\Users\comfy\Desktop\PCPSolver\PCPSolver\bin\Debug\PCPSolver.exe
+C:\Users\comfy\Desktop\PCPSolver\PCPSolver\bin\Debug\PCPSolver.pdb
+C:\Users\comfy\Desktop\PCPSolver\PCPSolver\obj\Debug\PCPSolver.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\PCPSolver\PCPSolver\obj\Debug\PCPSolver.csproj.CoreCompileInputs.cache
+C:\Users\comfy\Desktop\PCPSolver\PCPSolver\obj\Debug\PCPSolver.exe
+C:\Users\comfy\Desktop\PCPSolver\PCPSolver\obj\Debug\PCPSolver.pdb
+C:\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\bin\Debug\PCPSolver.exe.config
+C:\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\bin\Debug\PCPSolver.exe
+C:\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\bin\Debug\PCPSolver.pdb
+C:\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\obj\Debug\PCPSolver.csprojAssemblyReference.cache
+C:\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\obj\Debug\PCPSolver.csproj.CoreCompileInputs.cache
+C:\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\obj\Debug\PCPSolver.exe
+C:\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\obj\Debug\PCPSolver.pdb
+C:\Program Files (x86)\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\bin\Debug\PCPSolver.exe.config
+C:\Program Files (x86)\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\bin\Debug\PCPSolver.exe
+C:\Program Files (x86)\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\bin\Debug\PCPSolver.pdb
+C:\Program Files (x86)\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\obj\Debug\PCPSolver.csprojAssemblyReference.cache
+C:\Program Files (x86)\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\obj\Debug\PCPSolver.exe
+C:\Program Files (x86)\Лабораторные работы\Алгоритмические языки\PCPSolver\PCPSolver\obj\Debug\PCPSolver.pdb
